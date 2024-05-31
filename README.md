@@ -36,6 +36,6 @@ This project explored adversarial attacks, a method for intentionally fooling de
 
 This project investigated interpretability and fairness considerations in deep learning models.
 
-**Presentation: **
+**Presentation:**
 
 A presentation about Deep Leakage in Deep Networks which refers to the unintended disclosure of private information.
